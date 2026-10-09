@@ -1,0 +1,12 @@
+h2{
+    text-decoration:underline;
+    font-size: 25px;
+    color: navy;
+}
+
+ul{
+   
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+}
