@@ -1,0 +1,22 @@
+.profile-card{
+    background-color: skyblue;
+    width: 500px;
+    border: 5px ;
+     padding-left: 10px;
+     padding-right: 5px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin: auto;
+}
+     
+     .copy-tag:hover{
+        background: hotpink;
+     }
+   .copy-tag {
+    cursor:crosshair ;
+
+    }
+
+
+  
+ 
